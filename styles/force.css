@@ -1,0 +1,152 @@
+body {
+  font-family: "Fredoka", sans-serif;
+  color: #083d55;
+  background-color: #1e90ff;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.momentofforceinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.momentofforceinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.forceinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.lengthinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.momentofforcebutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.momentofforcebutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.forceinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.forceinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.momentofforceinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.lengthinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.forcebutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.forcebutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.lengthinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.lengthinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.momentofforceinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.forceinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.lengthbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.lengthbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv3 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button.backbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}

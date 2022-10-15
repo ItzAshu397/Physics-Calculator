@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sound</title>
+    <link rel="stylesheet" href="../styles/sound.css" />
+    <link rel="icon" href="../assets/logo.png" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap"
+      rel="stylesheet"
+    />
+    <script type="text/javascript" src="../js/sound.js"></script>
+  </head>
+  <body>
+    <h1 class="title">Sound</h1>
+    <h3 class="distanceinfo">Distance</h3>
+    <div class="distanceinput">
+      <input
+        id="velocityinput"
+        class="velocityinput"
+        placeholder="Enter Velocity"
+        type="number"
+      />
+      <input
+        id="timeinput"
+        class="timeinput"
+        placeholder="Enter Time Taken"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv1">
+      <h1 class="resultdiv1" id="resultdiv1"></h1>
+    </div>
+    <div class="distancebutton">
+      <button class="distancebutton" onclick="distance()">Calculate</button>
+    </div>
+    <h3 class="velocityinfo">Velocity</h3>
+    <div class="velocityinput">
+      <input
+        id="distanceinput2"
+        class="distanceinput2"
+        placeholder="Enter Distance"
+        type="number"
+      />
+      <input
+        id="timeinput2"
+        class="timeinput2"
+        placeholder="Enter Time Taken"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv2">
+      <h1 class="resultdiv2" id="resultdiv2"></h1>
+    </div>
+    <div class="velocitybutton">
+      <button class="velocitybutton" onclick="velocity()">Calculate</button>
+    </div>
+    <h3 class="timeinfo">Time Taken</h3>
+    <div class="timeinput">
+      <input
+        id="distanceinput3"
+        class="distanceinput3"
+        placeholder="Enter Distance"
+        type="number"
+      />
+      <input
+        id="velocityinput2"
+        class="velocityinput2"
+        placeholder="Enter Velocity"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv3">
+      <h1 class="resultdiv3" id="resultdiv3"></h1>
+    </div>
+    <div class="velocitybutton">
+      <button class="velocitybutton" onclick="time()">Calculate</button>
+    </div>
+    <div class="backbutton">
+      <a href="../index.html"
+        ><button class="backbutton">Back to Home Page</button></a
+      >
+    </div>
+  </body>
+</html>

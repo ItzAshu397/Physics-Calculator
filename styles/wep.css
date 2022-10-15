@@ -1,0 +1,202 @@
+body {
+  font-family: "Fredoka", sans-serif;
+  color: #083d55;
+  background-color: #1e90ff;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.workinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.workinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.forceinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.displacementinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.workbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.workbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.kineticenergyinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.kineticenergyinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.massinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.velocityinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.kineticenergybutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.kineticenergybutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.potentialenergyinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.potentialenergyinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.massinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.gravityinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.heightinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.potentialenergybutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.potentialenergybutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv3 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.powerinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.powerinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.workinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.timeinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.powerbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.powerbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv4 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button.backbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}

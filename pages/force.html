@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Force</title>
+    <link rel="stylesheet" href="../styles/force.css" />
+    <link rel="icon" href="../assets/logo.png" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap"
+      rel="stylesheet"
+    />
+    <script type="text/javascript" src="../js/force.js"></script>
+  </head>
+  <body>
+    <h1 class="title">Force</h1>
+    <h3 class="momentofforceinfo">Moment of Force</h3>
+    <div class="momentofforceinput">
+      <input
+        id="forceinput"
+        class="forceinput"
+        placeholder="Enter Force"
+        type="number"
+      />
+      <input
+        id="lengthinput"
+        class="lengthinput"
+        placeholder="Enter Length/Radius"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv1">
+      <h1 class="resultdiv1" id="resultdiv1"></h1>
+    </div>
+    <div class="momentofforcebutton">
+      <button class="momentofforcebutton" onclick="momentOfForce()">
+        Calculate
+      </button>
+    </div>
+    <h3 class="forceinfo">Force</h3>
+    <div class="forceinput">
+      <input
+        id="momentofforceinput"
+        class="momentofforceinput"
+        placeholder="Enter Moment of Force"
+        type="number"
+      />
+      <input
+        id="lengthinput2"
+        class="lengthinput2"
+        placeholder="Enter Length/Radius"
+        type="text"
+      />
+    </div>
+    <div class="resultdiv2">
+      <h1 class="resultdiv2" id="resultdiv2"></h1>
+    </div>
+    <div class="forcebutton">
+      <button class="forcebutton" onclick="force()">Calculate</button>
+    </div>
+    <h3 class="lengthinfo">Length/Radius</h3>
+    <div class="momentofforceinput">
+      <input
+        id="momentofforceinput2"
+        class="momentofforceinput2"
+        placeholder="Enter Moment of Force"
+        type="number"
+      />
+      <input
+        id="forceinput2"
+        class="forceinput2"
+        placeholder="Enter Force"
+        type="text"
+      />
+    </div>
+    <div class="resultdiv3">
+      <h1 class="resultdiv3" id="resultdiv3"></h1>
+    </div>
+    <div class="forcebutton">
+      <button class="forcebutton" onclick="length()">Calculate</button>
+    </div>
+    <div class="backbutton">
+      <a href="../index.html"
+        ><button class="backbutton">Back to Home Page</button></a
+      >
+    </div>
+  </body>
+</html>

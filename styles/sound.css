@@ -1,0 +1,157 @@
+body {
+  font-family: "Fredoka", sans-serif;
+  color: #083d55;
+  background-color: #1e90ff;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.distanceinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.distanceinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.velocityinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.timeinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.distancebutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.distancebutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.velocityinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.velocityinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.distanceinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.timeinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.velocitybutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.velocitybutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.timeinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.timeinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.distanceinput3 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.velocityinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.timebutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.timebutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv3 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button.backbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}

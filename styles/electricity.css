@@ -1,0 +1,28 @@
+body {
+  font-family: "Fredoka", sans-serif;
+  color: #083d55;
+  background-color: #1e90ff;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h1.message {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button.backbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
