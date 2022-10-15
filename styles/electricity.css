@@ -9,9 +9,312 @@ h1.title {
   text-align: center;
 }
 
-h1.message {
+h3.currentinfo {
   padding-top: 25px;
   text-align: center;
+}
+
+div.currentinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.chargeinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.timeinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.currentbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.currentbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.potentialinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.potentialinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.workinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.chargeinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.potentialbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.potentialbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.voltageinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.voltageinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.currentinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.resistanceinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.voltagebutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.voltagebutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv3 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.powerinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.powerinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.voltageinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.currentinput3 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.powerbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.powerbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv4 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.powerinfo2 {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.powerinput2 {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.currentinput4 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.resistanceinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.powerbutton2 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.powerbutton2 {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv5 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.powerinfo3 {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.powerinput3 {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.voltageinput3 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.resistanceinput3 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.powerbutton3 {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.powerbutton3 {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv6 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.heatinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.heatinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.currentinput5 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.resistanceinput4 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.timeinput2 {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.heatbutton {
+  padding-top: 20px;
+  text-align: center;
+}
+
+button.heatbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv7 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
 }
 
 div.backbutton {

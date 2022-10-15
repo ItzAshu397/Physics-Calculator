@@ -14,8 +14,160 @@
     <script type="text/javascript" src="../js/electricity.js"></script>
   </head>
   <body>
-    <h1 class="title">Sound</h1>
-    <h1 class="message">In Development Mode ⚒️</h1>
+    <h1 class="title">Electricity</h1>
+    <h3 class="currentinfo">Current</h3>
+    <div class="currentinput">
+      <input
+        id="chargeinput"
+        class="chargeinput"
+        placeholder="Enter Charge"
+        type="number"
+      />
+      <input
+        id="timeinput"
+        class="timeinput"
+        placeholder="Enter Time Taken"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv1">
+      <h1 class="resultdiv1" id="resultdiv1"></h1>
+    </div>
+    <div class="currentbutton">
+      <button class="currentbutton" onclick="current()">Calculate</button>
+    </div>
+    <h3 class="potentialinfo">Potential</h3>
+    <div class="potentialinput">
+      <input
+        id="workinput"
+        class="workinput"
+        placeholder="Enter Work Done"
+        type="number"
+      />
+      <input
+        id="chargeinput2"
+        class="chargeinput2"
+        placeholder="Enter Charge"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv2">
+      <h1 class="resultdiv2" id="resultdiv2"></h1>
+    </div>
+    <div class="potentialbutton">
+      <button class="potentialbutton" onclick="potential()">Calculate</button>
+    </div>
+    <h3 class="voltageinfo">Voltage</h3>
+    <div class="voltageinput">
+      <input
+        id="currentinput2"
+        class="currentinput2"
+        placeholder="Enter Current"
+        type="number"
+      />
+      <input
+        id="resistanceinput"
+        class="resistanceinput"
+        placeholder="Enter Resistance"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv3">
+      <h1 class="resultdiv3" id="resultdiv3"></h1>
+    </div>
+    <div class="voltagebutton">
+      <button class="voltagebutton" onclick="voltage()">Calculate</button>
+    </div>
+    <h3 class="powerinfo">Power using P = VI</h3>
+    <div class="powerinput">
+      <input
+        id="voltageinput2"
+        class="voltageinput2"
+        placeholder="Enter Voltage"
+        type="number"
+      />
+      <input
+        id="currentinput3"
+        class="currentinput3"
+        placeholder="Enter Current"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv4">
+      <h1 class="resultdiv4" id="resultdiv4"></h1>
+    </div>
+    <div class="powerbutton">
+      <button class="powerbutton" onclick="power()">Calculate</button>
+    </div>
+    <h3 class="powerinfo2">Power using P = I²R</h3>
+    <div class="powerinput2">
+      <input
+        id="currentinput4"
+        class="currentinput4"
+        placeholder="Enter Current"
+        type="number"
+      />
+      <input
+        id="resistanceinput2"
+        class="resistanceinput2"
+        placeholder="Enter Resistance"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv5">
+      <h1 class="resultdiv5" id="resultdiv5"></h1>
+    </div>
+    <div class="powerbutton2">
+      <button class="powerbutton2" onclick="power2()">Calculate</button>
+    </div>
+    <h3 class="powerinfo3">Power using P = V²/R</h3>
+    <div class="powerinput3">
+      <input
+        id="voltageinput3"
+        class="voltageinput3"
+        placeholder="Enter Voltage"
+        type="number"
+      />
+      <input
+        id="resistanceinput3"
+        class="resistanceinput3"
+        placeholder="Enter Resistance"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv6">
+      <h1 class="resultdiv6" id="resultdiv6"></h1>
+    </div>
+    <div class="powerbutton3">
+      <button class="powerbutton3" onclick="power3()">Calculate</button>
+    </div>
+    <h3 class="heatinfo">Heat</h3>
+    <div class="heatinput">
+      <input
+        id="currentinput5"
+        class="currentinput5"
+        placeholder="Enter Current"
+        type="number"
+      />
+      <input
+        id="resistanceinput4"
+        class="resistanceinput4"
+        placeholder="Enter Resistance"
+        type="number"
+      />
+      <input
+        id="timeinput2"
+        class="timeinput2"
+        placeholder="Enter Time Taken"
+        type="number"
+      />
+    </div>
+    <div class="resultdiv7">
+      <h1 class="resultdiv7" id="resultdiv7"></h1>
+    </div>
+    <div class="heatbutton">
+      <button class="heatbutton" onclick="heat()">Calculate</button>
+    </div>
     <div class="backbutton">
       <a href="../index.html"
         ><button class="backbutton">Back to Home Page</button></a

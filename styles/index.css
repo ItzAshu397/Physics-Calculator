@@ -9,6 +9,11 @@ h1.title {
   text-align: center;
 }
 
+div.logo {
+  padding-top: 10px;
+  text-align: center;
+}
+
 div.buttons-1 {
   padding-top: 25px;
   text-align: center;
