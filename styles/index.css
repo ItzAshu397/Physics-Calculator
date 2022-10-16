@@ -24,6 +24,11 @@ div.buttons-2 {
   text-align: center;
 }
 
+div.buttons-3 {
+  padding-top: 10px;
+  text-align: center;
+}
+
 button {
   height: 75px;
   width: 300px;

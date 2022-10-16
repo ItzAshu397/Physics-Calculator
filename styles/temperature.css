@@ -1,0 +1,239 @@
+body {
+  font-family: "Fredoka", sans-serif;
+  color: #083d55;
+  background-color: #1e90ff;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.ctofinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ctofinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ctofinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ctofbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ctofbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.ctokinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ctokinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ctokinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ctokbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ctokbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv2 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.ftocinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ftocinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ftocinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ftocbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ftocbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv3 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.ftokinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ftokinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ftokinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ftokbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ftokbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv4 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.ktocinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ktocinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ktocinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ktocbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ktocbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv5 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+h3.ktofinfo {
+  padding-top: 25px;
+  text-align: center;
+}
+
+div.ktofinput {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+}
+
+input.ktofinput {
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.ktofbutton {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button.ktofbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+div.resultdiv6 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: "Fredoka", sans-serif;
+}
+
+div.backbutton {
+  padding-top: 25px;
+  text-align: center;
+}
+
+button.backbutton {
+  text-align: center;
+  font-family: "Fredoka", sans-serif;
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+}

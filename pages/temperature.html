@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temperature Calculator</title>
+    <link rel="icon" href="../assets/logo.png" />
+    <link rel="stylesheet" href="../styles/temperature.css" />
+    <link
+    href="https://fonts.googleapis.com/css2?family=Fredoka&display=swap"
+    rel="stylesheet"
+   />
+    <script type="text/javascript" src="../js/temperature.js"></script>
+  </head>
+  <body>
+    <h1 class="title">Temperature Calculator</h1>
+    <h3 class="ctofinfo">Celsius to Fahrenheit</h3>
+    <div class="ctofinput">
+      <input
+        id="ctofinput"
+        class="ctofinput"
+        placeholder="Enter in Degree Celsius"
+        type="number"
+      />
+      <div class="resultdiv1">
+        <h1 class="resultdiv1" id="resultdiv1"></h1>
+      </div>
+      <div class="ctofbutton">
+        <button class="ctofbutton" onclick="celsiusToFahrenheit()">Convert</button>
+      </div>
+      <h3 class="ctokinfo">Celsius to Kelvin</h3>
+      <div class="ctokinput">
+        <input
+          id="ctokinput"
+          class="ctokinput"
+          placeholder="Enter in Degree Celsius"
+          type="number"
+        />
+        <div class="resultdiv2">
+          <h1 class="resultdiv2" id="resultdiv2"></h1>
+        </div>
+        <div class="ctokbutton">
+          <button class="ctokbutton" onclick="celsiusToKelvin()">Convert</button>
+        </div>
+        <h3 class="ftocinfo">Fahrenheit to Celsius</h3>
+        <div class="ftocinput">
+          <input
+            id="ftocinput"
+            class="ftocinput"
+            placeholder="Enter in Degree Fahrenheit"
+            type="number"
+          />
+          <div class="resultdiv3">
+            <h1 class="resultdiv3" id="resultdiv3"></h1>
+          </div>
+          <div class="ftocbutton">
+            <button class="ftocbutton" onclick="fahrenheitToCelsius()">Convert</button>
+          </div>
+          <h3 class="ftokinfo">Fahrenheit to Kelvin</h3>
+          <div class="ftokinput">
+            <input
+              id="ftokinput"
+              class="ftokinput"
+              placeholder="Enter in Degree Fahrenheit"
+              type="number"
+            />
+            <div class="resultdiv4">
+              <h1 class="resultdiv4" id="resultdiv4"></h1>
+            </div>
+            <div class="ftokbutton">
+              <button class="ftokbutton" onclick="fahrenheitToKelvin()">Convert</button>
+            </div>
+            <h3 class="ktocinfo">Kelvin to Celcius</h3>
+            <div class="ktocinput">
+              <input
+                id="ktocinput"
+                class="ktocinput"
+                placeholder="Enter in Degree Kelvin"
+                type="number"
+              />
+              <div class="resultdiv5">
+                <h1 class="resultdiv5" id="resultdiv5"></h1>
+              </div>
+              <div class="ktocbutton">
+                <button class="ktocbutton" onclick="kelvinToCelsius()">Convert</button>
+              </div>
+              <h3 class="ktofinfo">Kelvin to Fahrenheit</h3>
+              <div class="ktofinput">
+                <input
+                  id="ktofinput"
+                  class="ktofinput"
+                  placeholder="Enter in Degree Kelvin"
+                  type="number"
+                />
+                <div class="resultdiv6">
+                  <h1 class="resultdiv6" id="resultdiv6"></h1>
+                </div>
+                <div class="ktofbutton">
+                  <button class="ktofbutton" onclick="kelvinToFahrenheit()">Convert</button>
+                </div>
+    <div class="backbutton">
+      <a href="../index.html"
+        ><button class="backbutton">Back to Home Page</button></a
+      >
+    </div>
+  </body>
+</html>
