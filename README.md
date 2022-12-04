@@ -9,3 +9,4 @@ This is a free Physics Calculator. In this website you can calculate these follo
 - Velocity of Sound and terms related to it
 - Current Electricity and terms related to it
 - Temperature Converter
+- Calorimetry related
