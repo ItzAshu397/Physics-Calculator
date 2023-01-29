@@ -43,7 +43,6 @@ button.distancebutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv1 {
@@ -86,7 +85,6 @@ button.velocitybutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv2 {
@@ -129,7 +127,6 @@ button.timebutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv3 {
@@ -148,5 +145,4 @@ button.backbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }

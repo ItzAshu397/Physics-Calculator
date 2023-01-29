@@ -43,7 +43,6 @@ button.workbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv1 {
@@ -86,7 +85,6 @@ button.kineticenergybutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv2 {
@@ -136,7 +134,6 @@ button.potentialenergybutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv3 {
@@ -179,7 +176,6 @@ button.powerbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv4 {
@@ -198,5 +194,4 @@ button.backbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }

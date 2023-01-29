@@ -49,7 +49,6 @@ button.specificheatbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv1 {
@@ -92,7 +91,6 @@ button.heatbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv2 {
@@ -142,7 +140,6 @@ button.heatenergybutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv3 {
@@ -161,5 +158,4 @@ button.backbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }

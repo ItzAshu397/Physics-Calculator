@@ -36,7 +36,6 @@ button.ctofbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv1 {
@@ -72,7 +71,6 @@ button.ctokbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv2 {
@@ -108,7 +106,6 @@ button.ftocbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv3 {
@@ -144,7 +141,6 @@ button.ftokbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv4 {
@@ -180,7 +176,6 @@ button.ktocbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv5 {
@@ -216,7 +211,6 @@ button.ktofbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv6 {
@@ -235,5 +229,4 @@ button.backbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
