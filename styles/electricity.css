@@ -43,7 +43,6 @@ button.currentbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv1 {
@@ -86,7 +85,6 @@ button.potentialbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv2 {
@@ -129,7 +127,6 @@ button.voltagebutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv3 {
@@ -172,7 +169,6 @@ button.powerbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv4 {
@@ -215,7 +211,6 @@ button.powerbutton2 {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv5 {
@@ -258,7 +253,6 @@ button.powerbutton3 {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv6 {
@@ -308,7 +302,6 @@ button.heatbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
 
 div.resultdiv7 {
@@ -327,5 +320,4 @@ button.backbutton {
   font-family: "Fredoka", sans-serif;
   height: 40px;
   width: 250px;
-  border-radius: 10px;
 }
